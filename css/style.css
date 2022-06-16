@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+}
+
+.tagcloud {
+  font-size: 14px;
+  font-weight: bold;
+}
